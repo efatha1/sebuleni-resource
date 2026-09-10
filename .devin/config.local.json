@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(pip install)",
+      "Exec(python)",
+      "Exec(mkdir)",
+      "Exec(New-Item)",
+      "Exec(dir data)"
+    ]
+  }
+}
